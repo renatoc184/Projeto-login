@@ -50,3 +50,8 @@ div#formulario > p {
 }
 
 div#formulario > h1 {font-size: 2em;}
+
+form > input[type=submit]{
+    display: block;
+    font-size: 1em;
+}
